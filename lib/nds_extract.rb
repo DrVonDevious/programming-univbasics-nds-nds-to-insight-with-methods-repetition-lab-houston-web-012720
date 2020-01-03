@@ -52,6 +52,7 @@ def total_gross(source)
     i += 1
   end
   totals = directors_totals(source)
+  pp totals
 end
 
 
